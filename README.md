@@ -1,35 +1,95 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 개요
 
-## Getting Started
+<br>
 
-First, run the development server:
+`Project` AgriFarm
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+`Member`  한승진
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`Client` <https://github.com/JinS98/AI_Project>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+`skill` React, Next, websocket, restAPI, Emotion, typescript
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br>
 
-## Learn More
+## Frontend 
+  
+`yarn install`  
+`yarn run dev`
 
-To learn more about Next.js, take a look at the following resources:
+<br><br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<br>
 
-## Deploy on Vercel
+### 프로잭트 소개
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+· 목표: 주말농장의 효율적인 관리를 위해 인공지능(AI)과 사물인터넷(IoT)을 결합한
+  자동 관수 시스템 개발
+  
+· 시스템은 온습도 및 토양 수분 데이터를 실시간으로 수집하고, AI를 통해 관수 시
+  기와 양 최적화
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# AI_Project
+· 태양열 발전 시스템을 이용한 전력 공급과 모바일 애플리케이션을 통한 원격 제어
+  를 구현하여 사용자의 편의성 극대화
+  
+· 스마트팜 기술의 노지 보급 및 농업의 생산성 향상, 인건비 절감 기대 
+
+<br>
+
+
+<br>
+
+### 프로젝트 화면
+  
+  <br>
+  
+- 대시보드 페이지
+
+<p> 
+  <img width="1440" alt="스크린샷 2024-11-29 오후 4 07 00" src="https://github.com/user-attachments/assets/5aeb47ff-32a9-411b-999c-ad83dbfc1460">
+
+<br>
+
+- 세팅 페이지
+
+<p>  
+<img width="1437" alt="스크린샷 2024-11-29 오후 4 07 52" src="https://github.com/user-attachments/assets/c20ce0c4-c9d3-4d81-b478-b049f87ae42b">
+</p> 
+<br>
+
+
+- 데이터 수집 정확도 테이블
+
+<p>  
+<img width="1438" alt="스크린샷 2024-11-29 오후 4 14 56" src="https://github.com/user-attachments/assets/e53a8fa6-9ca0-4cf3-827a-ec070fff2d61">
+</p> 
+<br>
+
+- 시스템 반응 속도 확인 테이블
+
+<p>  
+<img width="1438" alt="스크린샷 2024-11-29 오후 4 15 04" src="https://github.com/user-attachments/assets/df3c4657-a6ca-4f7a-be24-d3889881ed5f">
+</p> 
+<br>
+
+- 회원가입
+
+<p>  
+<img width="1438" alt="스크린샷 2024-11-29 오후 4 15 17" src="https://github.com/user-attachments/assets/9d0e897b-1750-41cc-8db8-50ddfc664bc2">
+</p> 
+<br>
+
+- 로그인
+
+<p>  
+<img width="1438" alt="스크린샷 2024-11-29 오후 4 15 27" src="https://github.com/user-attachments/assets/a69b9f0e-11fd-41d9-973b-e6abf2c369e3">
+</p>   
+<br>
+
+
+
+
+
